@@ -9,7 +9,7 @@ You've probably heard the phrase [Socratic Method](http://www.criticalthinking.o
 
 **Video Example** [Learning with a student using the Socratic Method](https://youtu.be/MURwX6jUlRk)
 
-Now that you know what the student’s bug is, help them figure out what the problem is without giving them the answer right away. Use questions that will get them to explain their process and in this way, they may realize themselves what their mistake was. As a rule of thumb, in AAQ chats or when screensharing with a student, they should be “talking” at least 50% of the time.
+Now that you know what the student’s bug is, help them figure out what the problem is without giving them the answer right away. Use questions that will get them to explain their process and in this way, they may realize themselves what their mistake was. As a rule of thumb, in Pair with a Technical Coach chats or when screensharing with a student, they should be “talking” at least 50% of the time.
 
 **Video Example** [Technical Coach asking probing questions to student](https://youtu.be/aMZFyDrT0S4)
 
